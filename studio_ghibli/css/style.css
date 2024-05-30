@@ -1,0 +1,87 @@
+body{
+    background-color: rgb(237, 243, 247);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
+}
+
+a{
+   color:rgb(60, 128, 104);
+   background-color: rgb(146, 190, 228); 
+   font-size: 100px;
+}
+p {
+    background-color: rgb(212, 229, 251);  
+    font-size: 100px;
+    width: fit-content;
+    font-weight: 100;
+}
+
+h1 {background-color: rgb(212, 229, 251); 
+    font-size: 150px;
+    width: fit-content;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+h2{
+    margin: 0;
+}
+
+
+.showCase{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(146, 190, 228);
+}
+
+
+.showCase1{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(197, 218, 194);
+}
+
+
+.colorBox{
+    display: inline-block;
+    width: fit-content;
+    margin: 10px 0 10px 10px;
+}
+
+
+.label{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 255, 255); 
+    transform: translateY(-50);
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+#bois{
+    background-color: aqua;
+    width: 430px;
+    height: 430px;
+}
+
+
+
+.myColor{
+    font-size: 80px;
+}
+
+
+section{
+    outline-style: solid;
+    outline-color: rgb(20, 110, 188);
+    padding: 100px 50px 100px 50px;
+    margin: 100px;
+
+
+}
+
+
+
